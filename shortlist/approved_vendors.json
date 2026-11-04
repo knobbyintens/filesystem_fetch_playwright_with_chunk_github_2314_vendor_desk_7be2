@@ -1,0 +1,29 @@
+{
+  "review_date": "2026-11-04",
+  "shortlist": [
+    {
+      "rank": 1,
+      "vendor_id": "VND-1112",
+      "vendor_name": "Rheintal Freight Ltd",
+      "total_active_contract_value_eur": 13420000,
+      "tier": "A",
+      "approval_route": "board_approval"
+    },
+    {
+      "rank": 2,
+      "vendor_id": "VND-1100",
+      "vendor_name": "Vorarlberg Logistics Pte Ltd",
+      "total_active_contract_value_eur": 12880000,
+      "tier": "B",
+      "approval_route": "standard_procurement"
+    },
+    {
+      "rank": 3,
+      "vendor_id": "VND-1070",
+      "vendor_name": "Inn Spedition GmbH",
+      "total_active_contract_value_eur": 12310000,
+      "tier": "B",
+      "approval_route": "standard_procurement"
+    }
+  ]
+}
